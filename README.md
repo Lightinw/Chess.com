@@ -18,7 +18,6 @@ Building a platform where people can
 ## Setting it up locally
 
  - Clone the repo
- - Copy over .env.example over to .env everywhere
  - Update .env
     - Postgres DB Credentials
     - Github/Google Auth credentials
